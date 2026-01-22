@@ -42,7 +42,7 @@
 
 ---
 
-### 🏆 Projects
+/*### 🏆 Projects
 
 Here are some of my projects:
 
@@ -50,7 +50,7 @@ Here are some of my projects:
 |---------|-------------|------|
 | **Portfolio Website** | Personal portfolio | https://<yourportfolio>.com |
 | **Project 1** | What it does | https://github.com/<yourusername>/project1 |
-| **Project 2** | What it does | https://github.com/<yourusername>/project2 |
+| **Project 2** | What it does | https://github.com/<yourusername>/project2 |*/
 
 ---
 
