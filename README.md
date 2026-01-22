@@ -33,29 +33,9 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishi1912&show_icons=true&theme=radical)
-
----
-
-/*### 🏆 Projects
-
-Here are some of my projects:
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Portfolio Website** | Personal portfolio | https://<yourportfolio>.com |
-| **Project 1** | What it does | https://github.com/<yourusername>/project1 |
-| **Project 2** | What it does | https://github.com/<yourusername>/project2 |*/
-
 ---
 
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-j-320335203/)
-[![Website](https://img.shields.io/badge/-Portfolio-000000?logo=about.me&logoColor=white)](https://<yourportfolio>.com)
 
